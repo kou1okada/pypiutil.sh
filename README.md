@@ -18,5 +18,8 @@ Commands:
 ## Requirements
 * [hhs.bash](https://github.com/kou1okada/hhs.bash)
 
+## Sister product
+* GitHub / kou1okada / [pypiutil.py](https://github.com/kou1okada/pypiutil.py)
+
 ## References
 * GitHub / pypa / pip / issue / [Remove the pip search command #5216](https://github.com/pypa/pip/issues/5216) # [comment-747480421](https://github.com/pypa/pip/issues/5216#issuecomment-747480421)
